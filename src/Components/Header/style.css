@@ -1,0 +1,28 @@
+.row {
+  width: 417px;
+
+  margin: 0 0 0 400px;
+
+
+  letter-spacing: 2px;
+}
+
+.row h2 {
+  font-family: 'Staatliches', cursive;
+  font-size: 48px;
+  line-height: 60px;
+  color: #fff;
+
+
+  padding: 140px 0 18px 0;
+}
+
+.row p {
+  font-family: 'Poppins', sans-serif;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 30px;
+
+  color: #fff;
+
+}
